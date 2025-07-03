@@ -21,4 +21,3 @@ O código utiliza a função `system()` para limpar a tela após cada jogada, en
 
 -----
 **Isadora de Souza**
-Matrícula: 202565611C
