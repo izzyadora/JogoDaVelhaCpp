@@ -302,7 +302,7 @@ bool verificaVitoria1(){
         vitoria1 = true;
         return vitoria1;
     }
-    else if (a11 == simbolo1 && a21 == simbolo1 && a31 == simbolo1){ //vertical
+    else if (a11 == simbolo1 && a21 == simbolo1 && a31 == simbolo1){ //verticais
         vitoria1 = true;
         return vitoria1;
     }

@@ -16,6 +16,7 @@ Consiste em uma implementação de um **Jogo da Velha em C++**, jogável via ter
 
 2. Em relação a compatibilidade da função **system()**:
 O código utiliza a função `system()` para limpar a tela após cada jogada, entretanto, para ser funcional, o parâmetro deverá ser diferente para não ocorrer erro de reconhecimento como comando interno. 
+
 ⚠️​ **NÃO execute o arquivo compilado diferente daquele para o qual foi gerado!**
 
 -----
